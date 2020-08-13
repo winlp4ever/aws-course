@@ -1,2 +1,0 @@
-35.180.137.201 - paris server
-18.234.158.3 - virginia server

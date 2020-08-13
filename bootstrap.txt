@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-sudo apt-get install apache2 -y
-sudo systemctl restart apache2
-sudo chmod 777 -R /var/www/html
-cd /var/www/html 
-echo '<html><body>Hello world from Paris!</body></html>' > index.html
