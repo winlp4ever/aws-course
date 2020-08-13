@@ -4,7 +4,7 @@
 
 ```bash
 sudo apt-get install apache2 -y
-sudo systemctl status apacha2
+sudo systemctl status apache2
 sudo chmod 777 -R /var/www/html
 echo '<html><body>hello world!</body></html>' > /var/www/html/index.html 
 cat /var/www/html/index.html 

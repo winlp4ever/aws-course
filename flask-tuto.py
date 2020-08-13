@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello, World!"  
+    return "hello world"
 
 @app.route("/wait-a-minute")
 def wait():
@@ -15,4 +15,4 @@ def foo():
     return "<h1>I'm a developer</h1>"
 
 if __name__ == "__main__":
-    app.run()
+    app.run(host='0.0.0.0')

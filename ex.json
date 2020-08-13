@@ -1,0 +1,15 @@
+{
+    "name": "all relational db services",
+    "samples": [
+        {
+            "id": 0,
+            "name": "mysql",
+            "parallelisation": "good enough"
+        },
+        {
+            "id":1, 
+            "name": "postgresql",
+            "data-format-support": "many"
+        }
+    ]
+}
