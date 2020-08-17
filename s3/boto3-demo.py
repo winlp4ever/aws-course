@@ -6,3 +6,6 @@ s3 = boto3.resource('s3')
 data = open('text.txt', 'rb')
 s3.Bucket('my-files-123').put_object(Key='text-files/text.txt', Body=data, ContentType='text/plain')
 data.close()
+
+# download file
+s3.Bucket('my-files-123').download_file('text.txt', 't.txt')
