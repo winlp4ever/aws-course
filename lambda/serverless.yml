@@ -11,9 +11,9 @@
 #
 # Happy Coding!
 
-service: lambda-tuto
+service: lambda-1-tuto
 # app and org for use with dashboard.serverless.com
-app: lambda-tuto-app
+app: lambda-tuto
 org: haquangle
 
 # You can pin your service to only deploy with a specific Serverless version

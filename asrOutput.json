@@ -1,0 +1,173 @@
+{
+    "jobName": "reflection-transcript",
+    "accountId": "007850971360",
+    "results": {
+        "transcripts": [
+            {
+                "transcript": "bring me, you know, world but somehow show the world what way."
+            }
+        ],
+        "items": [
+            {
+                "start_time": "50.0",
+                "end_time": "50.25",
+                "alternatives": [
+                    {
+                        "confidence": "0.8606",
+                        "content": "bring"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "52.68",
+                "end_time": "53.25",
+                "alternatives": [
+                    {
+                        "confidence": "0.961",
+                        "content": "me"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "68.32",
+                "end_time": "68.55",
+                "alternatives": [
+                    {
+                        "confidence": "0.9974",
+                        "content": "you"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "68.55",
+                "end_time": "68.7",
+                "alternatives": [
+                    {
+                        "confidence": "0.9931",
+                        "content": "know"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": ","
+                    }
+                ],
+                "type": "punctuation"
+            },
+            {
+                "start_time": "68.71",
+                "end_time": "69.36",
+                "alternatives": [
+                    {
+                        "confidence": "1.0",
+                        "content": "world"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "76.2",
+                "end_time": "76.52",
+                "alternatives": [
+                    {
+                        "confidence": "0.8939",
+                        "content": "but"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "76.52",
+                "end_time": "76.95",
+                "alternatives": [
+                    {
+                        "confidence": "0.6011",
+                        "content": "somehow"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "78.73",
+                "end_time": "79.33",
+                "alternatives": [
+                    {
+                        "confidence": "0.9615",
+                        "content": "show"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "79.33",
+                "end_time": "79.43",
+                "alternatives": [
+                    {
+                        "confidence": "0.9109",
+                        "content": "the"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "79.49",
+                "end_time": "80.24",
+                "alternatives": [
+                    {
+                        "confidence": "0.9973",
+                        "content": "world"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "80.97",
+                "end_time": "81.26",
+                "alternatives": [
+                    {
+                        "confidence": "0.4647",
+                        "content": "what"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "start_time": "156.44",
+                "end_time": "162.77",
+                "alternatives": [
+                    {
+                        "confidence": "0.5567",
+                        "content": "way"
+                    }
+                ],
+                "type": "pronunciation"
+            },
+            {
+                "alternatives": [
+                    {
+                        "confidence": "0.0",
+                        "content": "."
+                    }
+                ],
+                "type": "punctuation"
+            }
+        ]
+    },
+    "status": "COMPLETED"
+}

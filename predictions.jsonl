@@ -1,0 +1,2 @@
+{"File": "sample-question.txt", "Line": "0", "Classes": [{"Name": "data-science", "Score": 0.8909}, {"Name": "not-data-science", "Score": 0.1091}]}
+{"File": "sample-question.txt", "Line": "1", "Classes": [{"Name": "data-science", "Score": 0.8308}, {"Name": "not-data-science", "Score": 0.1692}]}
